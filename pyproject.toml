@@ -1,0 +1,12 @@
+[project]
+name = "exercises"
+version = "0.1.0"
+description = "Project conatining the exercises for the class Computational Data Analysis"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "ruff>=0.9.4",
+]
